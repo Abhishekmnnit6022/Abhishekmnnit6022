@@ -1,7 +1,7 @@
 # Hi, I'm Abhishek Rastogi
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=800&lines=React+Native+Developer;Full-Stack+Builder;Machine\+Learning\+Practitioner" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=800&lines=React+Native+Developer;Full-Stack+Builder;Machine+Learning+Practitioner" alt="Typing intro" />
 </p>
 
 <p align="center">
@@ -51,12 +51,16 @@ Cloud and Deployment:
 ## GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhishekmnnit6022&show_icons=true&theme=transparent&hide_border=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekmnnit6022&layout=compact&theme=transparent&hide_border=true" height="165" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhishekmnnit6022&theme=github_dark" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhishekmnnit6022&theme=github_dark" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abhishekmnnit6022/Abhishekmnnit6022/output/github-breakout.svg" alt="GitHub Breakout animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhishekmnnit6022/Abhishekmnnit6022/github-breakout/images/breakout-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhishekmnnit6022/Abhishekmnnit6022/github-breakout/images/breakout-light.svg" />
+    <img alt="GitHub Breakout Game" src="https://raw.githubusercontent.com/Abhishekmnnit6022/Abhishekmnnit6022/github-breakout/images/breakout-light.svg" />
+  </picture>
 </p>
 
 ## GitHub Achievements
@@ -64,7 +68,7 @@ Cloud and Deployment:
 - Official achievements: [View on GitHub](https://github.com/Abhishekmnnit6022?tab=achievements)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhishekmnnit6022&theme=algolia&no-frame=true&margin-w=12&margin-h=12&row=2&column=6" alt="GitHub achievements board" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhishekmnnit6022&theme=algolia&no-frame=true&margin-w=12&margin-h=12&row=1&column=4&title=PullRequest,Commits,Repositories,Experience" alt="GitHub achievements board" />
 </p>
 
 ## Connect
