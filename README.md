@@ -1,12 +1,13 @@
 # Hi, I'm Abhishek Rastogi
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=800&lines=React+Native+Developer;Full-Stack+Builder;Machine+Learning+Practitioner" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=800&lines=React+Native+Developer;Full-Stack+Builder;Machine+Learning+Enthusiast" alt="Typing intro" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/abhishekrastogi27"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/abhishek6022"><img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" /></a>
+  <a href="https://x.com/Abhishek6022"><img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" /></a>
+  <a href="mailto:abhishekrastogi151@gmail.com"><img src="https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
@@ -15,9 +16,10 @@
 
 I build mobile and full-stack products with a strong focus on clean UX, scalable backend systems, and practical Machine Learning.
 
-- B.Tech @ MNNIT Allahabad (Engineering and Computational Mechanics)
+- B.Tech @ MNNIT Allahabad 
 - Building with React Native + TypeScript, Node/FastAPI, and cloud deployment workflows
 - Deep interest in ML projects that solve real product and user problems
+- Reach me: **abhishekrastogi151@gmail.com** 
 
 ## Tech Stack
 
@@ -64,8 +66,8 @@ Cloud and Deployment:
 </p>
 
 ## GitHub Achievements
-
-- Official achievements: [View on GitHub](https://github.com/Abhishekmnnit6022?tab=achievements)
+<!-- 
+- Official achievements: [View on GitHub](https://github.com/Abhishekmnnit6022?tab=achievements) -->
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Abhishekmnnit6022&theme=algolia&no-frame=true&margin-w=12&margin-h=12&row=1&column=4&title=PullRequest,Commits,Repositories,Experience" alt="GitHub achievements board" />
@@ -74,5 +76,6 @@ Cloud and Deployment:
 ## Connect
 
 - LinkedIn: [abhishekrastogi27](https://linkedin.com/in/abhishekrastogi27)
-- Twitter/X: **abhishek@6022**
-- GitHub: [Abhishekmnnit6022](https://github.com/Abhishekmnnit6022)
+- Twitter/X: [Abhishek@6022](https://x.com/Abhishek6022)
+- Email: abhishekrastogi151@gmail.com
+
