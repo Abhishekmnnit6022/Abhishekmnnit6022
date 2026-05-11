@@ -65,6 +65,10 @@ Cloud and Deployment:
   </picture>
 </p>
 
+<p align="center">
+  Breakout graph updated for higher density with a longer time domain, finer event granularity, and stronger intensity in peak commit periods.
+</p>
+
 ## GitHub Achievements
 <!-- 
 - Official achievements: [View on GitHub](https://github.com/Abhishekmnnit6022?tab=achievements) -->
@@ -78,4 +82,3 @@ Cloud and Deployment:
 - LinkedIn: [abhishekrastogi27](https://linkedin.com/in/abhishekrastogi27)
 - Twitter/X: [Abhishek@6022](https://x.com/Abhishek6022)
 - Email: abhishekrastogi151@gmail.com
-
