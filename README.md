@@ -65,9 +65,7 @@ Cloud and Deployment:
   </picture>
 </p>
 
-<p align="center">
-  Breakout graph updated for higher density with a longer time domain, finer event granularity, and stronger intensity in peak commit periods.
-</p>
+
 
 ## Connect
 
